@@ -1,0 +1,4 @@
+#Wed Dec 26 09:17:08 CST 2018
+base.0=/Users/Lanye/Desktop/flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
